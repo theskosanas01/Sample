@@ -1,0 +1,13 @@
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\config\DBConfiguration.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\MainApplication.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\datalayer\CustomerOrderRepository.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\dto\CustomerDTO.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\entity\CustomerOrder.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\entity\Order.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\service\OrderService.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\service\impl\OrderServiceImpl.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\entity\Customer.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\datalayer\CustomerRepository.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\datalayer\OrderRepository.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\dto\OrderDTO.java
+C:\workspace\draft\web-service\SampleService\src\main\java\sample\controller\CustomerOrderController.java

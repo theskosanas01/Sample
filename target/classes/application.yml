@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    liquibase:
+      changeLog: classpath:liquibase/changelog.xml
+    schemaName: sample
+    username: sample
+    password: sample
+    port: 4040
+    databaseName: sample
+    host: localhost
+    url: jdbc:postgresql://localhost:4040/sample
